@@ -8,7 +8,7 @@ I'm also the founder of Asep Academy, where I share knowledge and build projects
 
 * AI Application Development
 * Full Stack Web Systems with TypeScript, React.js, and Tailwind CSS
-* Real Time Computer Vision with OpenCV, Yolo and MediaPipe
+* Real Time Computer Vision with OpenCV, YOLO and MediaPipe
 * Software Architecture, Reliability, and DevOps
 
 ### Contact
